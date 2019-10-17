@@ -28,3 +28,5 @@ hs_err_pid*
 
 # Project exclude paths
 /out/
+/laba2.iml
+/Project/Code/sample.fxml
