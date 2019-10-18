@@ -1,5 +1,5 @@
 # TRTPO-Project
-# Water balance
+# Water Balance
 Язык реализации: Java
 
 # Содержание
