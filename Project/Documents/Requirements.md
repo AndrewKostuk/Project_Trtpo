@@ -62,7 +62,7 @@ Watbalrem - то лёгкая и функцциональная напомина
 <a name="analogues"/>
 
 ## 1.3 Аналоги
-Обзор аналогов представлен в документе [**Overview of analogues**](Overview%20of%20analogues)
+Обзор аналогов представлен в документе [**Overview of analogues.md**](Overview%20of%20analogues.md)
 
 <a name="user_requirements"/>
 
